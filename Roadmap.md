@@ -8,9 +8,9 @@
 
 Personal Milestones
 
-- [] Learn More About Importing Information on Currencies
+[] Learn More About Importing Information on Currencies
 
-- [] Joined KSU IS?
+[] Joined KSU IS?
 
 More Notes 
 Not seeing organization under my account
