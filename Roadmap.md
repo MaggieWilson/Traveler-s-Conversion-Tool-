@@ -8,11 +8,11 @@
 
 Personal Milestones
 
-[] Learn More About Importing Information on Currencies
+- [ ] Learn More About Importing Information on Currencies
 
-[] Joined KSU IS?
+- [ ] Joined KSU IS?
 
 More Notes 
-Not seeing organization under my account
+- * Not seeing organization under my account
 
-Just including currency converter may be complicated enough without additional information 
+- * Just including currency converter may be complicated enough without additional information 
