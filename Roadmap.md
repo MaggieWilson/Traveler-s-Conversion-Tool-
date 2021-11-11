@@ -1,16 +1,16 @@
-[x] Approved Project Idea
+- [x] Approved Project Idea
 
-[x] Create Github Account
+- [x] Create Github Account
 
-[x] Repository Ownsership
+- [x] Repository Ownsership
 
-[x] Run Similar Python Codes
+- [x] Run Similar Python Codes
 
 Personal Milestones
 
-[] Learn More About Importing Information on Currencies
+- [] Learn More About Importing Information on Currencies
 
-[] Joined KSU IS?
+- [] Joined KSU IS?
 
 More Notes 
 Not seeing organization under my account
