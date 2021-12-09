@@ -28,3 +28,13 @@ More Notes
 - [x] Tutorial on realtime conversion (https://thecleverprogrammer.com/2021/01/27/real-time-currency-converter-with-python/)
 - [ ] Create dropdown menu using tkinter (https://www.geeksforgeeks.org/dropdown-menus-tkinter/)
 - [ ] download bitcoin converter 
+- [ ] Upload image as background
+- [ ] Create dropdown menu so data does not need to be entered manually
+- [ ] Create clear contents button
+- [ ] designing labels
+- [ ] import currency abbreviations 
+- [ ] resizing
+- [ ] set variables  (from --> to...)
+- [ ] Creating buttons
+- [ ] import messagebox from tkinter
+- [ ] ERROR messageboxes for nothing entered or no currency selected 
